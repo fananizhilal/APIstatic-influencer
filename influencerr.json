@@ -2,153 +2,341 @@
   "influencer": [
     {
       "name": "Farida Nurhan",
-      "username": "@farida.nurhan"
+      "username": "@farida.nurhan",
+      "countlike": "123",
+      "followers": "2M",
+      "countpost": "4996",
+      "email": "rida.nurhan@gmail.com",
+      "nomertelpon": "082145099810"
     },
     {
       "name": "Surabaya Foodies",
-      "username": "@surabaya_foodies"
+      "username": "@surabaya_foodies",
+      "countlike": "123",
+      "followers": "559K",
+      "countpost": "9577",
+      "email": "",
+      "nomertelpon": "087777788538"
     },
     {
       "name": "Koko Buncit",
-      "username": "@kokobuncit"
+      "username": "@kokobuncit",
+      "countlike": "123",
+      "followers": "844K",
+      "countpost": "13078",
+      "email": "kobuncit2@gmail.com",
+      "nomertelpon": "087852506007"
     },
     {
       "name": "Sinyo Kuliner",
-      "username": "@sinyokuliner"
+      "username": "@sinyokuliner",
+      "countlike": "123",
+      "followers": "67.9K",
+      "countpost": "2140",
+      "email": "",
+      "nomertelpon": "08883030800"
     },
     {
       "name": "Nex Carlos",
-      "username": "@nexcarlos"
+      "username": "@nexcarlos",
+      "countlike": "123",
+      "followers": "1.1M",
+      "countpost": "2008",
+      "email": "nexcarlos86@gmail.com",
+      "nomertelpon": ""
     },
     {
       "name": "Moinblog",
-      "username": "@moinblog"
+      "username": "@moinblog",
+      "countlike": "123",
+      "followers": "61.9K",
+      "countpost": "948",
+      "email": "moinmoinblog@gmail.com",
+      "nomertelpon": "",
+      "webiste": ""
     },
     {
       "name": "Cindy Lulaby",
-      "username": "@cnlulaby"
+      "username": "@cnlulaby",
+      "countlike": "123",
+      "followers": "72.2K",
+      "countpost": "6869",
+      "email": "",
+      "nomertelpon": "087881080014",
+      "webiste": "lulabyspoon.blogspot.com"
     },
     {
       "name": "Mullie",
-      "username": "@anakjajan"
+      "username": "@anakjajan",
+      "countlike": "123",
+      "followers": "490K",
+      "countpost": "11504",
+      "email": "anakjajan@gmail.com",
+      "nomertelpon": ""
     },
     {
       "name": "Diary Makan",
-      "username": "@diarymakan"
+      "username": "@diarymakan",
+      "countlike": "123",
+      "followers": "1262",
+      "countpost": "128",
+      "email": "",
+      "nomertelpon": ""
     },
     {
       "name": "Magda",
-      "username": "@mgdalenaf"
+      "username": "@mgdalenaf",
+      "countlike": "123",
+      "followers": "2.4M",
+      "countpost": "3565",
+      "email": "mgdalenaf.official@gmail.com",
+      "nomertelpon": ""
     },
     {
       "name": "Tasya Farasya",
-      "username": "tasyafarasya"
+      "username": "tasyafarasya",
+      "countlike": "123",
+      "followers": "6M",
+      "countpost": "2477",
+      "email": "",
+      "nomertelpon": ""
     },
     {
       "name": "Suhay Salim",
-      "username": "@suhaysalim"
+      "username": "@suhaysalim",
+      "countlike": "123",
+      "followers": "652K",
+      "countpost": "472",
+      "email": "suhaysalim12@gmail.com",
+      "nomertelpon": ""
     },
     {
       "name": "Clarissa Putri",
-      "username": "@clarissaputri_"
+      "username": "@clarissaputri_",
+      "countlike": "123",
+      "followers": "1.2M",
+      "countpost": "1834",
+      "email": "",
+      "nomertelpon": "081294584704"
     },
     {
       "name": "Abel Cantika",
-      "username": "@abellyc"
+      "username": "@abellyc",
+      "countlike": "123",
+      "followers": "1M",
+      "countpost": "1790",
+      "email": "abelcantika.business@gmail.com",
+      "nomertelpon": ""
     },
     {
       "name": "Jharna Bhagwani",
-      "username": "@jharna.bhagwani__"
+      "username": "@jharna.bhagwani__",
+      "countlike": "123",
+      "followers": "3.2M",
+      "countpost": "721",
+      "email": "",
+      "nomertelpon": ""
     },
     {
       "name": "Nanda Arsyinta",
-      "username": "@nandaarsynt"
+      "username": "@nandaarsynt",
+      "countlike": "123",
+      "followers": "2.8M",
+      "countpost": "1534",
+      "email": "nansyie.business@gmail.com",
+      "nomertelpon": "081319684741"
     },
     {
       "name": "Rachel Goddard",
-      "username": "@rachgoddard"
+      "username": "@rachgoddard",
+      "countlike": "123",
+      "followers": "1.1M",
+      "countpost": "4,084",
+      "email": "rachgoddard@gmail.com",
+      "nomertelpon": ""
     },
     {
       "name": "Sarah Ayu Huntet",
-      "username": "@sarahayuh_"
+      "username": "@sarahayuh_",
+      "countlike": "123",
+      "followers": "818K",
+      "countpost": "1,183",
+      "email": "info@sociallyfe.management",
+      "nomertelpon": ""
     },
     {
       "name": "Jovi Adiguna Hunter",
-      "username": "@joviadhiguna"
+      "username": "@joviadhiguna",
+      "countlike": "123",
+      "followers": "824K",
+      "countpost": "1,500",
+      "email": "Info@sociallyfe.management",
+      "nomertelpon": ""
     },
     {
       "name": "GadgetIn",
-      "username": "@gadgetins"
+      "username": "@gadgetins",
+      "countlike": "123",
+      "followers": "2M",
+      "countpost": "2,213",
+      "email": "davidbrendi88@gmail.com",
+      "nomertelpon": ""
     },
     {
       "name": "Jagat Review",
-      "username": "@jagat.review"
+      "username": "@jagat.review",
+      "countlike": "123",
+      "followers": "114K",
+      "countpost": "1,654",
+      "email": "esty@jagatreview.com",
+      "nomertelpon": ""
     },
     {
       "name": "Wasa Wirman",
-      "username": "@wasawirman"
+      "username": "@wasawirman",
+      "countlike": "123",
+      "followers": "102K",
+      "countpost": "1,094",
+      "email": "anakjajan@gmail.com",
+      "nomertelpon": "",
+      "webiste": "www.page.co.id/aww"
     },
     {
       "name": "Putu Reza",
-      "username": "@papersboy"
+      "username": "@papersboy",
+      "countlike": "123",
+      "followers": "80.5K",
+      "countpost": "975",
+      "email": "putureza@projectreview88.com",
+      "nomertelpon": ""
     },
     {
       "name": "Wisnu Kumoro",
-      "username": "@wisnukumoro"
+      "username": "@wisnukumoro",
+      "countlike": "123",
+      "followers": "45.2K",
+      "countpost": "1,027",
+      "email": "ask@wisnukumoro.com",
+      "nomertelpon": ""
     }
   ],
   "influencer2": [
     {
-      "name": "DK ID",
-      "username": "@dkidchannel"
+      "name": "Risa Larasati",
+      "username": "@fachrisaa_",
+      "countlike": "123",
+      "followers": "47.9K",
+      "countpost": "280",
+      "email": "",
+      "nomertelpon": ""
     },
     {
       "name": "Pizza Gadget",
-      "username": "@pizza.gadget"
+      "username": "@pizza.gadget",
+      "countlike": "123",
+      "followers": "21.5K",
+      "countpost": "242",
+      "email": "",
+      "nomertelpon": "081295988805"
     },
     {
       "name": "Lakuin Gadget",
-      "username": "@lakuingadget"
+      "username": "@lakuingadget",
+      "countlike": "123",
+      "followers": "2,502",
+      "countpost": "603",
+      "email": "",
+      "nomertelpon": ""
     },
     {
       "name": "Gadget Gaul",
-      "username": "@gadgetgaul"
+      "username": "@gadgetgaul",
+      "countlike": "123",
+      "followers": "103K",
+      "countpost": "3,398",
+      "email": "info@gadgetgaul.com",
+      "nomertelpon": ""
     },
     {
-      "name": "Risa Larasati",
-      "username": "@fachrisaa_"
+      "name": "DK ID",
+      "username": "@dkidmedia",
+      "countlike": "123",
+      "followers": "93.1K",
+      "countpost": "93.1K",
+      "email": "",
+      "nomertelpon": ""
     },
     {
       "name": "Fitri Nur",
-      "username": "fitrinurlyh_"
+      "username": "fitrinurlyh_",
+      "countlike": "123",
+      "followers": "101K",
+      "countpost": "163",
+      "email": "",
+      "nomertelpon": ""
     },
     {
       "name": "Khalila Dian",
-      "username": "@khailakk_"
+      "username": "@khailakk_",
+      "countlike": "123",
+      "followers": "71.5K",
+      "countpost": "1,423",
+      "email": "",
+      "nomertelpon": ""
     },
     {
       "name": "Intan Ghazella",
-      "username": "@intanghazll_"
+      "username": "@intanghazll_",
+      "countlike": "123",
+      "followers": "87K",
+      "countpost": "573",
+      "email": "",
+      "nomertelpon": "089654720016"
     },
     {
       "name": "Balqeis",
-      "username": "@itsbalqeis"
+      "username": "@itsbalqeis",
+      "countlike": "123",
+      "followers": "95.2K",
+      "countpost": "183",
+      "email": "",
+      "nomertelpon": ""
     },
     {
       "name": "Ratu Anditya",
-      "username": "@ratuanditya"
+      "username": "@ratuanditya",
+      "countlike": "123",
+      "followers": "98.9K",
+      "countpost": "498",
+      "email": "",
+      "nomertelpon": "08111030605"
     },
     {
       "name": "Hanifa Lestari",
-      "username": "@hanifadl_"
+      "username": "@hanifadl_",
+      "countlike": "123",
+      "followers": "94.6K",
+      "countpost": "788",
+      "email": "",
+      "nomertelpon": ""
     },
     {
       "name": "Rafika Rahma",
-      "username": "@rafikarahmaaa"
+      "username": "@rafikarahmaaa",
+      "countlike": "123",
+      "followers": "47K",
+      "countpost": "680",
+      "email": "",
+      "nomertelpon": ""
     },
     {
       "name": "Inthira Klhaudya",
-      "username": "@inthiraclhaudya"
+      "username": "@inthiraclhaudya",
+      "countlike": "123",
+      "followers": "58K",
+      "countpost": "887",
+      "email": "",
+      "nomertelpon": "081376065132"
     }
   ]
 }
